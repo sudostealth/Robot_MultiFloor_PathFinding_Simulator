@@ -28,7 +28,7 @@
 
 ## 📖 About The Project
 
-**Robot Pathfinding Simulator** is a sophisticated educational tool designed to visualize complex pathfinding algorithms in a multi-floor environment. Unlike traditional 2D grid solvers, this simulator introduces verticality with **Elevators** and **Stairs**, adding a layer of strategic cost analysis to the pathfinding process.
+**Robot Multi-Floor Pathfinding Simulator** is a sophisticated educational tool designed to visualize complex pathfinding algorithms in a multi-floor environment. Unlike traditional 2D grid solvers, this simulator introduces verticality with **Elevators** and **Stairs**, adding a layer of strategic cost analysis to the pathfinding process.
 
 The "Robot" (Yellow agent) intelligently calculates the most efficient route from Point A to Point B, dynamically choosing between taking the fast elevator (which can skip floors) or the slower stairs (which must be traversed sequentially), all while avoiding user-defined obstacles.
 
