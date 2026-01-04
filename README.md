@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🤖 Robot Pathfinding Simulator</h1>
+  <h1>🤖 Robot Multi-Floor Pathfinding Simulator</h1>
   
   <p>
     <b>An Advanced Multi-Floor Pathfinding Visualization using A* Algorithm</b>
@@ -81,8 +81,8 @@ python --version
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/robot-pathfinding-simulator.git
-    cd robot-pathfinding-simulator
+    git clone https://github.com/sudostealth/Robot_MultiFloor_PathFinding_Simulator.git
+    cd Robot_MultiFloor_PathFinding_Simulator
     ```
 
 2.  **Install Dependencies**
