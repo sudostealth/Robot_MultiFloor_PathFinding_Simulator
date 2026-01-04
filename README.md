@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🤖 Robot Multi-Floor Pathfinding Simulator</h1>
+  <h1>🤖 Robot Pathfinding Simulator</h1>
   
   <p>
     <b>An Advanced Multi-Floor Pathfinding Visualization using A* Algorithm</b>
@@ -28,7 +28,7 @@
 
 ## 📖 About The Project
 
-**Robot Multi-Floor Pathfinding Simulator** is a sophisticated educational tool designed to visualize complex pathfinding algorithms in a multi-floor environment. Unlike traditional 2D grid solvers, this simulator introduces verticality with **Elevators** and **Stairs**, adding a layer of strategic cost analysis to the pathfinding process.
+**Robot Pathfinding Simulator** is a sophisticated educational tool designed to visualize complex pathfinding algorithms in a multi-floor environment. Unlike traditional 2D grid solvers, this simulator introduces verticality with **Elevators** and **Stairs**, adding a layer of strategic cost analysis to the pathfinding process.
 
 The "Robot" (Yellow agent) intelligently calculates the most efficient route from Point A to Point B, dynamically choosing between taking the fast elevator (which can skip floors) or the slower stairs (which must be traversed sequentially), all while avoiding user-defined obstacles.
 
@@ -37,6 +37,18 @@ The "Robot" (Yellow agent) intelligently calculates the most efficient route fro
 - **Vertical Navigation**: Seamless transitions between floors.
 - **Cost-Aware Routing**: Smart decision making between Elevator vs. Stairs.
 - **Dynamic UI**: Real-time interactions, animations, and visual feedback.
+
+---
+
+## 📸 Project Demo
+
+<div align="center">
+  <!-- Replace the src below with your actual GIF or Image URL -->
+  <!-- Example: ![Demo](./assets/demo.gif) -->
+  <img src="https://via.placeholder.com/800x450.png?text=Upload+Your+Simulation+GIF+or+Video+Here" alt="Project Simulation Demo" width="100%">
+  
+  <p><i>Visualizing the robot navigating through multiple floors using A* algorithm.</i></p>
+</div>
 
 ---
 
@@ -81,8 +93,8 @@ python --version
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/sudostealth/Robot_MultiFloor_PathFinding_Simulator.git
-    cd Robot_MultiFloor_PathFinding_Simulator
+    git clone https://github.com/yourusername/robot-pathfinding-simulator.git
+    cd robot-pathfinding-simulator
     ```
 
 2.  **Install Dependencies**
